@@ -12,7 +12,7 @@ the Angel Robotics ROS project
 ### Licence
 
 ```
-Copyright 2019 Angel Robotics
+Copyright 2020 Angel Robotics
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
