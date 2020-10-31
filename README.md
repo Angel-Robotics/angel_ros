@@ -5,7 +5,10 @@ the Angel Robotics ROS project
 - TBD
 
 ## Tech Stack
-- TBD
+- Ubunto 18.0.4
+- ROS 2 Eloquent Elusor 
+- Python
+- C++
 
 
 
